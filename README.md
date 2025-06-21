@@ -23,6 +23,15 @@ This is one of my hobby projects created to explore how to build GUIs using Tkin
 
 ---
 
+## 💻 Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Tkinter](https://img.shields.io/badge/Tkinter-FFCC00?style=for-the-badge&logo=python&logoColor=black)
+![PyInstaller](https://img.shields.io/badge/PyInstaller-092E20?style=for-the-badge&logo=python&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
 ## 📦 Features
 
 - GUI built with **Tkinter**
